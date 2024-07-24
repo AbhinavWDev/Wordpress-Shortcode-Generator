@@ -50,7 +50,7 @@ A: You can include CSS directly in your shortcode's HTML content or enqueue addi
 Support
 -------
 
-For support or questions, please contact us at support@example.com.
+For support or questions, please contact us at abhi.webworks@gmail.com.
 
 License
 -------
